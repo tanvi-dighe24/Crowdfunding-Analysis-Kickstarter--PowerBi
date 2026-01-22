@@ -19,6 +19,11 @@ Trend Analysis: Time-series insights on campaign launches and success trends.
 
 Detailed View: Breakdown of successful vs failed campaigns with navigation buttons for smooth transitions.
 
+What I learnt:
+Experience with this work was trully worth of time. I spent hours on this analysis which was really helpful for me.
+I learnt to work under timeline, I have completed this work with excellence within deadline. 
+I found myself somehow comorftable in under pressure enviroment which is strange right?
+
 Interactivity: Added slicers, drill-through options, and navigation buttons for user-friendly exploration.
 
 💡 The Power BI dashboard enables stakeholders to quickly identify trends, compare performance across categories, and gain actionable insights into the success factors behind crowdfunding campaigns.
