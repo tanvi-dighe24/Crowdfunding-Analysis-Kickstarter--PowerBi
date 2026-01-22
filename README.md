@@ -3,7 +3,7 @@
 
 In this project, I conducted an end-to-end analysis of Kickstarter crowdfunding data using Excel for data cleaning and Power BI for visualization. The dashboard was designed to provide interactive insights into campaign performance and funding patterns.
 
-🔹 Key Steps:
+🔹 Key Steps perfomed:
 
 Data Cleaning: Pre-processed and structured large datasets in Excel for smooth integration with Power BI.
 
