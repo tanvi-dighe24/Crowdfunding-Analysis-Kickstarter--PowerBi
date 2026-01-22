@@ -1,4 +1,4 @@
-# Crowdfunding-Analysis-Kickstarter--PowerBi
+# Crowdfunding-Analysis-Kickstarter--PowerBi:
 📊 Crowdfunding Analysis (Kickstarter) – Power BI
 
 In this project, I conducted an end-to-end analysis of Kickstarter crowdfunding data using Excel for data cleaning and Power BI for visualization. The dashboard was designed to provide interactive insights into campaign performance and funding patterns.
@@ -24,3 +24,4 @@ Interactivity: Added slicers, drill-through options, and navigation buttons for 
 💡 The Power BI dashboard enables stakeholders to quickly identify trends, compare performance across categories, and gain actionable insights into the success factors behind crowdfunding campaigns.
 
 I’d love to hear your thoughts on this project! 🚀
+My experience with this work was full of learning and implementing ideas into visible insights.
