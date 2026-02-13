@@ -5,21 +5,21 @@ In this project, I conducted an end-to-end analysis of Kickstarter crowdfunding 
 
 #Key Steps perfomed:
 
-Data Cleaning: Pre-processed and structured large datasets in Excel for smooth integration with Power BI.
+1)Data Cleaning: Pre-processed and structured large datasets in Excel for smooth integration with Power BI.
 
-Data Modeling: Built relationships and applied DAX measures for dynamic calculations.
+2)Data Modeling: Built relationships and applied DAX measures for dynamic calculations.
 
-Layered Dashboards:
+#Layered Dashboards:
 
-Executive Summary: High-level KPIs (Total Campaigns, Success Rate, Funds Raised).
+-Executive Summary: High-level KPIs (Total Campaigns, Success Rate, Funds Raised).
 
-Exploratory View: Interactive filters to drill down into categories, subcategories, and regions.
+-Exploratory View: Interactive filters to drill down into categories, subcategories, and regions.
 
-Trend Analysis: Time-series insights on campaign launches and success trends.
+-Trend Analysis: Time-series insights on campaign launches and success trends.
 
-Detailed View: Breakdown of successful vs failed campaigns with navigation buttons for smooth transitions.
+-Detailed View: Breakdown of successful vs failed campaigns with navigation buttons for smooth transitions.
 
-What I learnt:
+#What I learnt:
 Experience with this work was trully worth of time. I spent hours on this analysis which was really helpful for me.
 I learnt to work under timeline, I have completed this work with excellence within deadline. 
 I found myself somehow comorftable in under pressure enviroment which is strange right?
