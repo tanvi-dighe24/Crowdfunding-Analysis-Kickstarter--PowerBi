@@ -24,6 +24,8 @@ Experience with this work was trully worth of time. I spent hours on this analys
 I learnt to work under timeline, I have completed this work with excellence within deadline. 
 I found myself somehow comorftable in under pressure enviroment which is strange right?
 
+Let me know how you liked this work, if you have any direct feedback to improve effiency then kindly share it.
+
 Interactivity: Added slicers, drill-through options, and navigation buttons for user-friendly exploration.
 
 💡The Power BI dashboard enables stakeholders to quickly identify trends, compare performance across categories, and gain actionable insights into the success factors behind crowdfunding campaigns.
