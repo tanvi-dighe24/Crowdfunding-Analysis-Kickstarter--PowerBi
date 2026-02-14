@@ -19,7 +19,7 @@ In this project, I conducted an end-to-end analysis of Kickstarter crowdfunding 
 
 -Detailed View: Breakdown of successful vs failed campaigns with navigation buttons for smooth transitions.
 
-#What I learnt:
+#What I learnt in this work:
 Experience with this work was trully worth of time. I spent hours on this analysis which was really helpful for me.
 I learnt to work under timeline, I have completed this work with excellence within deadline. 
 I found myself somehow comorftable in under pressure enviroment which is strange right?
